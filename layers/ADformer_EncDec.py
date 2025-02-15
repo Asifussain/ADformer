@@ -51,7 +51,7 @@ class Encoder(nn.Module):
             attns_t.append(attn_t)
             attns_c.append(attn_c)
 
-        # concat all the outputs
+        # concat all the outputs 
         if x_t:
             x_t = torch.cat(x_t, dim=1)  # (batch_size, patch_num_1 + patch_num_2 + ... , d_model)
         else:
