@@ -1,0 +1,5 @@
+classification_APAVA-Indep_Medformer_APAVA_ftM_sl96_ll48_pl96_dm128_nh8_el6_dl1_df256_fc1_ebtimeF_dtTrue_'Exp'_seed41  
+Validation results --- Loss: 0.48096, Accuracy: 0.78273, Precision: 0.77691, Recall: 0.78251, F1: 0.77864, AUROC: 0.86756, AUPRC: 0.86035
+Test results --- Loss: 0.80017, Accuracy: 0.66597, Precision: 0.65336, Recall: 0.65105, F1: 0.65197, AUROC: 0.67954, AUPRC: 0.67524
+
+

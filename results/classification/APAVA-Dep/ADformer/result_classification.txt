@@ -1,0 +1,5 @@
+APAVA-Dep_ftM_sl96_ll48_pl96_dm128_nh8_el6_dl1_df256_fc1_ebtimeF_dtTrue_'Exp'_seed41  
+Validation results --- Loss: 0.01910, Accuracy: 0.99749, Precision: 0.99755, Recall: 0.99715, F1: 0.99735, AUROC: 0.99957, AUPRC: 0.99949
+Test results --- Loss: 0.02215, Accuracy: 0.99497, Precision: 0.99442, Recall: 0.99511, F1: 0.99476, AUROC: 0.99990, AUPRC: 0.99990
+
+
